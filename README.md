@@ -1,6 +1,7 @@
 # Florian ALÙ
 #### 📓 : Student in Web Development at Campus Numérique in the Alps
-#### ❤️ : React, Node.js, TypeScript, Sass
+#### ⚙️❤️ : Node.js, React, TypeScript, Sass
+#### 📚❤️ : Socket.io
 
 ### Contact
 #### ✉️ [alu.florian@gmail.com](mailto:alu.florian@gmail.com)
